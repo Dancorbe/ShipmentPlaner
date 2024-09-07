@@ -1,0 +1,5 @@
+C:/Users/danco/Documents/ProiectCorbean/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ProiectCorbean.dir
+C:/Users/danco/Documents/ProiectCorbean/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/danco/Documents/ProiectCorbean/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/danco/Documents/ProiectCorbean/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ProiectCorbean_autogen_timestamp_deps.dir
+C:/Users/danco/Documents/ProiectCorbean/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ProiectCorbean_autogen.dir
